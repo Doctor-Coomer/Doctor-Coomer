@@ -5,14 +5,7 @@
 - I'm reachable on discord: doctor.coomer
 
 ## Languages I Use
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/yoshisaac/yoshisaac/refs/heads/main/ISO_C%2B%2B_Logo.svg.png" height="45" width="40" alt="javascript logo"  />
-  <img src="https://raw.githubusercontent.com/yoshisaac/yoshisaac/refs/heads/main/Python-logo-notext.svg.png" height="45" width="40" alt="nodejs logo"  />
-  <img src="https://raw.githubusercontent.com/yoshisaac/yoshisaac/refs/heads/main/Rust_programming_language_black_logo.svg.png" height="50" width="50" alt="cplusplus logo"  />
-  <img src="https://raw.githubusercontent.com/yoshisaac/yoshisaac/refs/heads/main/Lua-Logo.svg.png" height="50" width="50" alt="python logo"  />
-  <img src="https://raw.githubusercontent.com/yoshisaac/yoshisaac/refs/heads/main/The_C_Programming_Language_logo.svg.png" height="50" width="50" alt="python logo"  />
-</div>
+<img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshisaac&layout=compact&theme=react&hide=css,html,roff&langs_count=10" alt="My top languages">
 
 ## Development Tools
 
@@ -24,5 +17,4 @@
 <br>
 <br>
 
-[![Dr_Coomer's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshisaac&layout=compact&theme=react&hide=css,html,roff&langs_count=10)](https://github.com/yoshisaac)
 [![Dr_Coomer's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoshisaac&theme=tokyonight)](https://github.com/yoshisaac)
