@@ -20,3 +20,8 @@
   <img src="https://raw.githubusercontent.com/yoshisaac/yoshisaac/refs/heads/main/120px-EmacsIcon.svg.png" height="50" width="50" alt="python logo"  />
   <img src="https://raw.githubusercontent.com/yoshisaac/yoshisaac/refs/heads/main/Heckert_GNU_white.svg.png" height="50" width="50" alt="python logo"  />
 </div>
+
+<br>
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoshisaac&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
