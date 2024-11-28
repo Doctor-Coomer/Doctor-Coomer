@@ -24,4 +24,5 @@
 <br>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoshisaac&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Dr_Coomer's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshisaac&layout=compact&theme=react&hide=css,html,roff&langs_count=10)](https://github.com/yoshisaac)
+[![Dr_Coomer's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoshisaac&theme=tokyonight)](https://github.com/yoshisaac)
