@@ -5,7 +5,7 @@
 - I'm reachable on discord: doctor.coomer
 
 ## Languages I Use
-<img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshisaac&layout=compact&theme=react&hide=css,html,roff&langs_count=10" alt="My top languages">
+<img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshisaac&layout=compact&theme=react&hide=css,html,roff,Emacs%20Lisp&langs_count=10" alt="My top languages">
 
 ## Development Tools
 
