@@ -1,7 +1,7 @@
 ## Welcome :D
 
 - I do game hacking mostly
-- I'm currently contributing to a [Team Fortress 2 project](https://github.com/faluthe/tf_c).
+- I'm currently writing [my own POSIX core utility](https://github.com/yoshisaac/core-util).
 - I'm reachable on discord: doctor.coomer
 
 ## Languages I Use
