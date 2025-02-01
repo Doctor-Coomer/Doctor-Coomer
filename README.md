@@ -1,7 +1,7 @@
 ## Welcome :D
 
 - I do game hacking mostly
-- I'm currently writing [my own POSIX core utility](https://github.com/yoshisaac/core-util).
+- I'm currently porting [BLAHAJ](https://github.com/yoshisaac/core-util) to [BLAHAJ-rs](https://github.com/yoshisaac/BLAHAJ-rs).
 - I'm reachable on discord: doctor.coomer
 
 ## Languages I Use
