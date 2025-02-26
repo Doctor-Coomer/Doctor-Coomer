@@ -1,7 +1,7 @@
 ## Welcome :D
 
 - I do game hacking mostly
-- I'm currently porting [BLAHAJ](https://github.com/GeopJr/BLAHAJ) to [BLAHAJ-rs](https://github.com/yoshisaac/BLAHAJ-rs).
+- [CS2 Linux cheat](https://github.com/yoshisaac/CounterStrike2-Linux-Cheat).
 - I'm reachable on discord: doctor.coomer
 
 ## Languages I Use
