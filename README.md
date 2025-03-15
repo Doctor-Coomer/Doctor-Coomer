@@ -1,7 +1,7 @@
 ## Welcome :D
 
 - I do game hacking mostly
-- [CS2 Linux cheat](https://github.com/yoshisaac/CounterStrike2-Linux-Cheat).
+- [Counter-Strike: Source 64-bit Linux cheat](https://github.com/yoshisaac/CounterStrikeSource-Linux-Cheat).
 - I'm reachable on discord: doctor.coomer
 
 ## Languages I Use
