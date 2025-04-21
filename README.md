@@ -7,6 +7,8 @@
 ## Languages I Use
 <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshisaac&layout=compact&theme=react&hide=css,html,roff,Emacs%20Lisp&langs_count=10" alt="My top languages">
 
+The more C++ I write, the larger that stupid number gets...
+
 ## Development Tools
 
 <div align="left">
