@@ -1,7 +1,7 @@
 ## Welcome :D
 
 - I do game hacking mostly
-- [CS2 Linux Cheat](https://github.com/yoshisaac/CounterStrike2-Linux-Cheat).
+- [Team Fortress 2 Linux Cheat](https://github.com/yoshisaac/TeamFortress2-Linux-Internal).
 - I'm reachable on discord: doctor.coomer
 
 ## Languages I Use
@@ -12,8 +12,8 @@ The more C++ I write, the larger that stupid number gets...
 ## Development Tools
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/yoshisaac/yoshisaac/refs/heads/main/120px-EmacsIcon.svg.png" height="50" width="50" alt="python logo"  />
-  <img src="https://raw.githubusercontent.com/yoshisaac/yoshisaac/refs/heads/main/Heckert_GNU_white.svg.png" height="50" width="50" alt="python logo"  />
+  <img src="https://raw.githubusercontent.com/yoshisaac/yoshisaac/refs/heads/main/120px-EmacsIcon.svg.png" height="50" width="50" alt="Emacs"  />
+  <img src="https://raw.githubusercontent.com/yoshisaac/yoshisaac/refs/heads/main/Heckert_GNU_white.svg.png" height="50" width="50" alt="GNU"  />
 </div>
 
 <br>
