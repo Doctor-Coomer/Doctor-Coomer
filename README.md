@@ -16,7 +16,6 @@ The more C++ I write, the larger that stupid number gets...
   <img src="https://raw.githubusercontent.com/Doctor-Coomer/Doctor-Coomer/refs/heads/main/Heckert_GNU_white.svg.png" height="50" width="50" alt="GNU"  />
 </div>
 
-<br>
-<br>
-
+## More statistics
 [![Dr_Coomer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doctor-Coomer&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/Doctor-Coomer)
+[![Dr_Coomer's GitHub trofies](https://github-profile-trophy.vercel.app/?username=Doctor-Coomer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
