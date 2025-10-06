@@ -1,7 +1,8 @@
 ## Welcome :D
 
 - I do game hacking mostly
-- [Team Fortress 2 Linux Cheat](https://github.com/Doctor-Coomer/TeamFortress2-Linux-Internal).
+- [Team Fortress 2 Linux Cheat](https://github.com/Doctor-Coomer/TeamFortress2-Linux-Internal)
+- [Counter-Strike 2 Linux Cheat](https://github.com/Doctor-Coomer/CounterStrike2-Linux-Internal)
 
 ## Languages I Use
 <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doctor-Coomer&layout=compact&theme=react&hide=css,html,roff,Emacs%20Lisp&langs_count=10" alt="My top languages">
