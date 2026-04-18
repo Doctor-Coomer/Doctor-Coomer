@@ -1,13 +1,3 @@
-<style>
-.container {
-	display: grid;
-	grid-template-columns: auto auto auto;
-	background-color: dodgerblue;
-	padding: 10px;
-}
-</style>
-
-
 ## Welcome :D
 
 - I do game hacking mostly
